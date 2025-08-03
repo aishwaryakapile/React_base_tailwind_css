@@ -1,0 +1,14 @@
+.userContainer{
+    display:flex;
+    /* justify-content: space-between; */
+}
+.padding-left{
+    padding-left: 20px;
+    color: blue;
+}
+.padding-left:hover{
+    cursor: pointer;
+}
+.red-text{
+    color: red !important;
+}

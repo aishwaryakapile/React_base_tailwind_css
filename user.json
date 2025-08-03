@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "sam duo",
+      "role": "User",
+      "id": "1"
+    },
+    {
+      "name": "John duo",
+      "role": "User",
+      "id": "2"
+    },
+    {
+      "name": "Aishwarya  kapile",
+      "role": "Admin",
+      "id": "3"
+    },
+    {
+      "name": "Danny smith",
+      "role": "Super Admin",
+      "id": "4"
+    },
+    {
+      "name": "John Evram",
+      "role": "Sub Admin",
+      "id": "5"
+    },
+    {
+      "name": "Jane Smith",
+      "role": "User",
+      "id": "6"
+    },
+    {
+      "id": "3ddd",
+      "name": "New User ",
+      "role": "Configurator"
+    },
+    {
+      "name": "Cris gayle",
+      "role": "Sub Admin",
+      "id": "1db3"
+    }
+  ]
+}
